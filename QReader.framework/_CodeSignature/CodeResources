@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		HxaVOqjd+W8TdTW36vFRDJN2/1U=
+		PTXku9kOV+CrBToD3VId/ipCnzA=
 		</data>
 		<key>Headers/MAFPayQRReader.h</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>QRReaderViewController.nib/objects-13.0+.nib</key>
 		<data>
-		Fzvi70wkwlubVQFga68vYjmMGj4=
+		MeUyP6N3vzkmnRCuC53WOPA1jzk=
 		</data>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<data>
-		HGjvSEwWVC1vX3ST+TV46JvpQrc=
+		HU1eHMUni9aG2YOf+/QmA9ytkmE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yRyhrcTjpwsZv2yh0oK78eysV/gcypuoGAKNoXywUHY=
+			k5m3Z044wLKribp+Gad0TJkVeLo9WLPyV4QFHsmI60M=
 			</data>
 		</dict>
 		<key>Headers/MAFPayQRReader.h</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fdWGOxbwPQtQ6quqrevyy41yEUXVsX9psyRLEdHSVIc=
+			1/qJHWQKJE7ByWs0gnJ2nIJroirO7YTU82UTRr/jbnY=
 			</data>
 		</dict>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uYW3Zioc03OfGUwzyA62mk9VeKTV9Swre3FpPxBjnrU=
+			w+z+FpwF3kuwXcbdjBVbFtiFT8kQmme8EdxZNmmiu3w=
 			</data>
 		</dict>
 	</dict>
