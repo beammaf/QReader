@@ -1,0 +1,4 @@
+framework module QReader {
+  header "QReader-Swift.h"
+  requires objc
+}
