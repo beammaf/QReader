@@ -1,0 +1,2 @@
+*.swift linguist-detectable=true
+*.objectivec linguist-detectable=false
