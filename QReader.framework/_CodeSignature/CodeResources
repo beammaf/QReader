@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		evFtxa6JZDWevTrixhmyF4RLrCI=
+		xWpZhJNoKb0q/70oq4tbBH1sw1U=
 		</data>
 		<key>Headers/MAFPayQRReader.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		xt1NRQ8ceQzBEEu579C+il8zCvE=
+		zlSvM1Es+ADm+RMUtY16s2/A9bI=
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		xt1NRQ8ceQzBEEu579C+il8zCvE=
+		zlSvM1Es+ADm+RMUtY16s2/A9bI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>QRReaderViewController.nib/objects-13.0+.nib</key>
 		<data>
-		VASaffp24FZ4IWJBnfz05Nc9H/w=
+		U2Xhc7kHBqJpvIRsHDsKQsxo3vY=
 		</data>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<data>
-		Za6u/DeJVtA+/XAIzSjT1hnSudA=
+		9ciZSiTZY7gbp2gHMtszeavULZ8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5ThTr07NYuU2gblpp1lKLjoI0+3SMLMnS/V84a3yET4=
+			UdrwNj620df0EexSnQ6xTITH2mQYcOMrDKGh/dWafvs=
 			</data>
 		</dict>
 		<key>Headers/MAFPayQRReader.h</key>
@@ -83,7 +83,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eK1vfjmKNKmGWAPz7G5BqvS0h0qcAXgLf25Hjzayrc=
+			ibJny8xX7jcml5Aa5eofsHUVRwqbEm8SmMOHNZIbLvk=
 			</data>
 		</dict>
 		<key>Modules/QReader.swiftmodule/arm64.swiftdoc</key>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eK1vfjmKNKmGWAPz7G5BqvS0h0qcAXgLf25Hjzayrc=
+			ibJny8xX7jcml5Aa5eofsHUVRwqbEm8SmMOHNZIbLvk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vBCR95E8giopXkgMRpupNtDORuXBhw5tuZGjSuGXCh0=
+			dOtdxliz9E7yhTlId8A4N89auBRqTiVlO6+r6Q2SyvI=
 			</data>
 		</dict>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y9Dup5vc0HJM/UOI+TrFLc6uQNhvI6oSaYYdtelX6Oc=
+			mj0Y4mXDNEnj8e9/AdI1m78C9xwEJMmkeH16lqmXoSM=
 			</data>
 		</dict>
 	</dict>
