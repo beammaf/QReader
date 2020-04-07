@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		xWpZhJNoKb0q/70oq4tbBH1sw1U=
+		4baZRne32JOlFXWyOGF27RIvV7w=
 		</data>
 		<key>Headers/MAFPayQRReader.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Headers/QReader-Swift.h</key>
 		<data>
-		eGuxbDmHQ8PlIYCnPMvhfL+uDmw=
+		5RAxqWknRf86dwcAjUjJ4aG4aVg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x9scO6sq1manK4SDXWUkZ5oCFWY=
+		OjgWSX2liRHK4F6fy/AsmOBVyrg=
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		sGe8uItyQyzLatXHxhVTM4Pd+lA=
+		b6SFyZcg3UwjlTtFWQSOBSLQVRo=
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		zlSvM1Es+ADm+RMUtY16s2/A9bI=
+		+SPY7E8zN6rDpv4qc/eny0PLNRk=
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		sGe8uItyQyzLatXHxhVTM4Pd+lA=
+		b6SFyZcg3UwjlTtFWQSOBSLQVRo=
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		zlSvM1Es+ADm+RMUtY16s2/A9bI=
+		+SPY7E8zN6rDpv4qc/eny0PLNRk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>QRReaderViewController.nib/objects-13.0+.nib</key>
 		<data>
-		U2Xhc7kHBqJpvIRsHDsKQsxo3vY=
+		MQgKUDHC8htkWhxOrQ6FfoBkOss=
 		</data>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<data>
-		9ciZSiTZY7gbp2gHMtszeavULZ8=
+		LV/Ucmgn2A/o/FWKep+hIBI1UPQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UdrwNj620df0EexSnQ6xTITH2mQYcOMrDKGh/dWafvs=
+			lNMHtfNwiQgqi7lmwE+slf/Nkxep4G4iAQEXIOxGZ/Y=
 			</data>
 		</dict>
 		<key>Headers/MAFPayQRReader.h</key>
@@ -69,35 +69,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8sJnIs+LOKIQiayb/fjP3L/FDA3pYItz1mbh5LmJUT8=
+			7/iT3GDx5kYURrDo3A8ijUwbLaomZDgoLO7pAMPTiUI=
 			</data>
 		</dict>
 		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ieIeFwNvj1y+7So9ieMQpFUcZSf19DBcEH0SYkmjGBo=
+			GpWHNP7py1zlDCztvrlFVj+iXCfounUBlKgZcNfBNc4=
 			</data>
 		</dict>
 		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ibJny8xX7jcml5Aa5eofsHUVRwqbEm8SmMOHNZIbLvk=
+			vP3Vj6SzksM9edG2Mia256XL4KElsn9sENUO8vm5f/k=
 			</data>
 		</dict>
 		<key>Modules/QReader.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ieIeFwNvj1y+7So9ieMQpFUcZSf19DBcEH0SYkmjGBo=
+			GpWHNP7py1zlDCztvrlFVj+iXCfounUBlKgZcNfBNc4=
 			</data>
 		</dict>
 		<key>Modules/QReader.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ibJny8xX7jcml5Aa5eofsHUVRwqbEm8SmMOHNZIbLvk=
+			vP3Vj6SzksM9edG2Mia256XL4KElsn9sENUO8vm5f/k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dOtdxliz9E7yhTlId8A4N89auBRqTiVlO6+r6Q2SyvI=
+			K1Fm5oneNdo8gQvk0LuV3mqo31hRzKq3LEqymZCrDlM=
 			</data>
 		</dict>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mj0Y4mXDNEnj8e9/AdI1m78C9xwEJMmkeH16lqmXoSM=
+			itWpyhq1NNJrTEofAzZyjhtuCbHsv+qUygzqpeWFGPw=
 			</data>
 		</dict>
 	</dict>
