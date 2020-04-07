@@ -24,17 +24,25 @@
 		<data>
 		b6SFyZcg3UwjlTtFWQSOBSLQVRo=
 		</data>
+		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		JEpVrJ3nYQ0QaE0p1C6lMtSIcAM=
+		</data>
 		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+SPY7E8zN6rDpv4qc/eny0PLNRk=
+		BENVflOVKzTtrx0jkAo0oeoCrSc=
 		</data>
 		<key>Modules/QReader.swiftmodule/arm64.swiftdoc</key>
 		<data>
 		b6SFyZcg3UwjlTtFWQSOBSLQVRo=
 		</data>
+		<key>Modules/QReader.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		JEpVrJ3nYQ0QaE0p1C6lMtSIcAM=
+		</data>
 		<key>Modules/QReader.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		+SPY7E8zN6rDpv4qc/eny0PLNRk=
+		BENVflOVKzTtrx0jkAo0oeoCrSc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,11 +50,11 @@
 		</data>
 		<key>QRReaderViewController.nib/objects-13.0+.nib</key>
 		<data>
-		MQgKUDHC8htkWhxOrQ6FfoBkOss=
+		nhImg4CdwQwZ1Aw8OTs0+tDvMG0=
 		</data>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<data>
-		LV/Ucmgn2A/o/FWKep+hIBI1UPQ=
+		lyTpW9j+aJ6h7acweUYU+/wUsho=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -79,11 +87,18 @@
 			GpWHNP7py1zlDCztvrlFVj+iXCfounUBlKgZcNfBNc4=
 			</data>
 		</dict>
+		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BxrGYmpmUvZcHUGrHgAt28+76E8NRhpod772ETizc0E=
+			</data>
+		</dict>
 		<key>Modules/QReader.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vP3Vj6SzksM9edG2Mia256XL4KElsn9sENUO8vm5f/k=
+			vmf+Pn2UCcnDw4xv+ESJew1lhWT3XXLZL2LL8RcZv5E=
 			</data>
 		</dict>
 		<key>Modules/QReader.swiftmodule/arm64.swiftdoc</key>
@@ -93,11 +108,18 @@
 			GpWHNP7py1zlDCztvrlFVj+iXCfounUBlKgZcNfBNc4=
 			</data>
 		</dict>
+		<key>Modules/QReader.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BxrGYmpmUvZcHUGrHgAt28+76E8NRhpod772ETizc0E=
+			</data>
+		</dict>
 		<key>Modules/QReader.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vP3Vj6SzksM9edG2Mia256XL4KElsn9sENUO8vm5f/k=
+			vmf+Pn2UCcnDw4xv+ESJew1lhWT3XXLZL2LL8RcZv5E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -111,14 +133,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K1Fm5oneNdo8gQvk0LuV3mqo31hRzKq3LEqymZCrDlM=
+			l0UH16wH6kmmfFUCwszbwg/efj1nd5XKsPLfke5iuSE=
 			</data>
 		</dict>
 		<key>QRReaderViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			itWpyhq1NNJrTEofAzZyjhtuCbHsv+qUygzqpeWFGPw=
+			+VHo0p27+adWTBUyLSVIgB+KErD98EhcG1f3Jpq93Z8=
 			</data>
 		</dict>
 	</dict>

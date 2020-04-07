@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'QReader'
-    s.version           = '0.0.8'
+    s.version           = '0.0.9'
     s.summary           = 'Physical Store Detect SDK Provided by Beam UAE'
     s.homepage          = 'https://github.com/beammaf/QReader'
     s.dependency 'MasterpassQRCoreSDK', '2.0.6'
